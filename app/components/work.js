@@ -4,11 +4,11 @@ import { motion, AnimatePresence } from "framer-motion";
 
 const projects = [
   {
-    title: "Portfolio Website",
-    image: "/projects/portfolio.jpg",
-    description: "A modern developer portfolio built with Next.js, Tailwind CSS, and Framer Motion.",
-    tech: ["Next.js", "Tailwind CSS", "Framer Motion"],
-    link: "https://yourportfolio.com"
+    title: "CodersHangout",
+    image: "/projects/project1.PNG",
+    description: "A Community where Developers Can Share Their Knowledge and Code",
+    tech: ["MERN", "Tailwind CSS", "Clerk", "Gemini API"],
+    link: "https://frontend-codershangout.vercel.app"
   },
   {
     title: "E-commerce Platform",
