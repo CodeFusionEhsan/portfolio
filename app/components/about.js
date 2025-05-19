@@ -13,7 +13,7 @@ const TAB_CONTENT = {
     <div>
       <h3 className="text-lg sm:text-xl font-semibold mb-2 text-blue-400">Who am I?</h3>
       <p className="text-gray-300 text-sm sm:text-base">
-        I'm Ehsan Saleem, a passionate frontend developer and designer. I love crafting interactive, accessible, and visually appealing web experiences. My focus is on building performant, modern UIs with great attention to detail and user experience.
+        I&apos;m Ehsan Saleem, a passionate frontend developer and designer. I love crafting interactive, accessible, and visually appealing web experiences. My focus is on building performant, modern UIs with great attention to detail and user experience.
       </p>
     </div>
   ),
