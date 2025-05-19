@@ -16,7 +16,7 @@ export default function Hero() {
             transition={{ delay: 0.1, duration: 0.7, type: "spring" }}
             className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-extrabold text-white mb-3 sm:mb-4"
           >
-            Hi, I'm Ehsan Saleem
+            Hi, I&apos;m Ehsan Saleem
           </motion.h1>
           <motion.h2
             initial={{ y: 60, opacity: 0 }}
