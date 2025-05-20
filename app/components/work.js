@@ -18,11 +18,11 @@ const projects = [
     link: "https://ecommerce.com"
   },
   {
-    title: "Crypto Dashboard",
-    image: "/projects/crypto.jpg",
-    description: "A real-time crypto dashboard using WebSockets, Chart.js, and Firebase authentication.",
-    tech: ["React", "Firebase", "Chart.js"],
-    link: "https://cryptodash.com"
+    title: "Refine Search - Image Search",
+    image: "/projects/project2.PNG",
+    description: "A Web App built using Django, tailwind CSS, Tensorflow, Keras, Firecrawl & Pillow which enables users to do product search with images",
+    tech: ["Python", "Django", "Tailwind CSS", "Tensorflow" "AI/ML", "Firecrawl", "Web Scraping"],
+    link: "https://github.com/CodeFusionEhsan"
   },
   {
     title: "Blog Platform",
