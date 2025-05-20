@@ -20,7 +20,7 @@ const projects = [
   {
     title: "Refine Search - Image Search",
     image: "/projects/project2.PNG",
-    description: "A Web App built using Django, tailwind CSS, Tensorflow, Keras, Firecrawl & Pillow which enables users to do product search with images",
+    description: "Search Products On Flipkart Using Images",
     tech: ["Python", "Django", "Tailwind CSS", "Tensorflow" "AI/ML", "Firecrawl", "Web Scraping"],
     link: "https://github.com/CodeFusionEhsan"
   },
