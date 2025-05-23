@@ -12,7 +12,7 @@ const projects = [
   },
   {
     title: "VidWiz Video",
-    image: "/projects/project3.jpg",
+    image: "/projects/project3.PNG",
     description: "A Modern Video Editing & Sharing Platform built with Next.js",
     tech: ["Next.js", "MongoDB", "React.js", "Cloudinary", "API", "Javascript"],
     link: "https://vidwiz-video.vercel.app"
