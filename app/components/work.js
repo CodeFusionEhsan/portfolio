@@ -11,11 +11,11 @@ const projects = [
     link: "https://frontend-codershangout.vercel.app"
   },
   {
-    title: "E-commerce Platform",
-    image: "/projects/ecommerce.jpg",
-    description: "A full-featured MERN stack e-commerce app with payment integration and admin dashboard.",
-    tech: ["MongoDB", "Express", "React", "Node.js"],
-    link: "https://ecommerce.com"
+    title: "VidWiz Video",
+    image: "/projects/project3.jpg",
+    description: "A Modern Video Editing & Sharing Platform built with Next.js",
+    tech: ["Next.js", "MongoDB", "React.js", "Cloudinary", "API", "Javascript"],
+    link: "https://vidwiz-video.vercel.app"
   },
   {
     title: "Refine Search - Image Search",
