@@ -32,11 +32,11 @@ const projects = [
     link: "https://tradex-tau.vercel.app"
   },
   {
-    title: "NFT Marketplace",
-    image: "/projects/nft.jpg",
-    description: "A decentralized NFT marketplace using Solidity, Hardhat, and Next.js.",
-    tech: ["Solidity", "Hardhat", "Next.js"],
-    link: "https://nftmarket.com"
+    title: "Learnmania - Upskilling For All",
+    image: "/projects/project-5.png",
+    description: "A Web App Built using Next.js where people can upload and enroll on free courses (Looking Forward To Add The Paid Courses Functionality). Responsive & Highly Functional with secure authentication using Clerk",
+    tech: ["Next.js", "Tailwind CSS", "MongoDB","Clerk", "Cloudinary"],
+    link: "https://learnmania.vercel.app"
   },
   {
     title: "DevOps Dashboard",
