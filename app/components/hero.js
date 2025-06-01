@@ -24,7 +24,7 @@ export default function Hero() {
             transition={{ delay: 0.25, duration: 0.7, type: "spring" }}
             className="text-lg sm:text-xl md:text-2xl text-blue-400 font-semibold mb-3 sm:mb-4"
           >
-            Frontend Developer & Designer
+            Web Developer & Python Expert | Web3 Learner
           </motion.h2>
           <motion.p
             initial={{ y: 60, opacity: 0 }}
@@ -32,7 +32,7 @@ export default function Hero() {
             transition={{ delay: 0.4, duration: 0.7, type: "spring" }}
             className="text-gray-300 mb-7 sm:mb-8 max-w-lg"
           >
-            I create beautiful, responsive, and engaging web experiences. Passionate about modern UI/UX, performance, and accessibility.
+            Crafting Jaw-Dropping Web Apps & AI-Powered Solutions With Responsive Frontend & Highly Functional Backend
           </motion.p>
           <motion.div
             initial={{ opacity: 0, scale: 0.95 }}
