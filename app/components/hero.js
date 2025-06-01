@@ -32,7 +32,7 @@ export default function Hero() {
             transition={{ delay: 0.4, duration: 0.7, type: "spring" }}
             className="text-gray-300 mb-7 sm:mb-8 max-w-lg"
           >
-            Crafting Jaw-Dropping Web Apps & AI-Powered Solutions With Responsive Frontend & Highly Functional Backend
+            A 16 Year Old Crafting Jaw-Dropping Web Apps & AI-Powered Solutions With Responsive Frontend & Highly Functional Backend
           </motion.p>
           <motion.div
             initial={{ opacity: 0, scale: 0.95 }}
