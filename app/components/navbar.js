@@ -22,7 +22,7 @@ export default function Navbar() {
       className="fixed w-full z-50 bg-transparent backdrop-blur-md bg-black/40"
     >
       <div className="max-w-7xl mx-auto flex justify-between items-center px-6 py-4">
-        <span className="font-bold text-3xl text-white">Ehsan Saleem</span>
+        <span className="font-bold text-3xl text-white">Ehsan Saleem | Web Dev</span>
         {/* Desktop Menu */}
         <div className="hidden md:flex gap-8 items-center">
           {navLinks.map(link => (
