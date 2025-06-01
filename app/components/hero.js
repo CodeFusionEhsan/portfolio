@@ -24,7 +24,7 @@ export default function Hero() {
             transition={{ delay: 0.25, duration: 0.7, type: "spring" }}
             className="text-lg sm:text-xl md:text-2xl text-blue-400 font-semibold mb-3 sm:mb-4"
           >
-            Web Developer & Python Expert | Web3 Learner
+            Web Developer | Python Expert | Web3 Learner
           </motion.h2>
           <motion.p
             initial={{ y: 60, opacity: 0 }}
