@@ -26,7 +26,7 @@ const projects = [
   },
   {
     title: "Tradex - For Crypto",
-    image: "/projects/project-4.PNG",
+    image: "/projects/project-4.png",
     description: "A Crypto Trading Platform Built with Next.js & Crypto APIs where users can get latest updates on Cryto, See Crypto Data on Price Charts, note their strategies & build a community by blogging",
     tech: ["Next.js", "MongoDB", "APIs", "Rechart.js", "Gemini API", "Clerk", "Tailwind CSS"],
     link: "https://tradex-tau.vercel.app"
