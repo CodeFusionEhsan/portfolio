@@ -82,16 +82,16 @@ export default function ContactSection() {
           </form>
           <div className="mt-8 flex flex-col sm:flex-row items-center justify-center gap-4">
             <a
-              href="mailto:ehsan@example.com"
+              href="mailto:web.ehsan.dev@gmail.com"
               className="flex items-center gap-2 text-blue-400 hover:text-blue-300 transition"
             >
               <svg className="w-5 h-5" fill="none" stroke="currentColor" strokeWidth={2} viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" d="M16 12l-4-4-4 4m0 0v8m8-8v8" />
               </svg>
-              ehsan@example.com
+              web.ehsan.dev@gmail.com
             </a>
             <a
-              href="https://linkedin.com/"
+              href="https://linkedin.com/in/ehsan-saleem-web3"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 text-blue-400 hover:text-blue-300 transition"
@@ -102,7 +102,7 @@ export default function ContactSection() {
               LinkedIn
             </a>
             <a
-              href="https://github.com/"
+              href="https://github.com/CodeFusionEhsan"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 text-blue-400 hover:text-blue-300 transition"
