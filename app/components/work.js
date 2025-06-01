@@ -38,13 +38,6 @@ const projects = [
     tech: ["Next.js", "Tailwind CSS", "MongoDB","Clerk", "Cloudinary"],
     link: "https://learnmania.vercel.app"
   },
-  {
-    title: "DevOps Dashboard",
-    image: "/projects/devops.jpg",
-    description: "A containerized dashboard for monitoring deployments, built with Docker and SQL.",
-    tech: ["Docker", "SQL", "React"],
-    link: "https://devopsdash.com"
-  },
 ];
 
 const variants = {
