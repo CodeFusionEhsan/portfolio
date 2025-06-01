@@ -1,13 +1,31 @@
 "use client";
 import { useState } from "react";
 import { motion } from "framer-motion";
+import emailjs from '@emailjs/browser';
 
 export default function ContactSection() {
   const [submitted, setSubmitted] = useState(false);
+  const [name, setName] = useState(""):
+  const [email, setEmail] = useState("");
+  const [message, setMeessage] = useState("");
 
   // For demo: replace with your form handler or integration (e.g., EmailJS, Formspree, etc.)
   const handleSubmit = (e) => {
     e.preventDefault();
+
+    const templateParams = {
+        name,
+        email,
+        message
+      };
+
+      // Replace these with your actual IDs
+      const serviceId = 'service_8qv8ivj';
+      const templateId = 'template_2lbqy7r';
+      const userId = 'ZTBvSUbFHZ5xDm7PY';
+
+      await emailjs.send(serviceId, templateId, templateParams, userId);
+    
     setSubmitted(true);
     setTimeout(() => setSubmitted(false), 3000);
   };
@@ -40,6 +58,8 @@ export default function ContactSection() {
                 required
                 id="name"
                 name="name"
+                value={name}
+                onChange={(e) => {setName(e.target.value)}}
                 type="text"
                 className="w-full px-4 py-2 rounded-lg bg-gray-800 text-gray-100 border border-gray-700 focus:border-blue-400 focus:outline-none transition"
                 placeholder="Your Name"
@@ -54,6 +74,8 @@ export default function ContactSection() {
                 id="email"
                 name="email"
                 type="email"
+                value={email}
+                onChange={(e) => {setEmail(e.target.value)}}
                 className="w-full px-4 py-2 rounded-lg bg-gray-800 text-gray-100 border border-gray-700 focus:border-blue-400 focus:outline-none transition"
                 placeholder="you@example.com"
               />
@@ -66,6 +88,8 @@ export default function ContactSection() {
                 required
                 id="message"
                 name="message"
+                value={message}
+                onChange={(e) => {setMessage(e.target.value)}}
                 rows={5}
                 className="w-full px-4 py-2 rounded-lg bg-gray-800 text-gray-100 border border-gray-700 focus:border-blue-400 focus:outline-none transition resize-none"
                 placeholder="Type your message..."
