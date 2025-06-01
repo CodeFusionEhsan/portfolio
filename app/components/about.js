@@ -13,7 +13,7 @@ const TAB_CONTENT = {
     <div>
       <h3 className="text-lg sm:text-xl font-semibold mb-2 text-blue-400">Who am I?</h3>
       <p className="text-gray-300 text-sm sm:text-base">
-        I&apos;m Ehsan Saleem, a passionate frontend developer and designer. I love crafting interactive, accessible, and visually appealing web experiences. My focus is on building performant, modern UIs with great attention to detail and user experience.
+        I am a 16 year old, forward-thinking web developer specializing in Javascript & Python, with a particular passion for inntegrating AI into web applications. My goal Is To create Web Solutions that are not only functional and beautiful but also intelligent and adaptve. My core areas of expertise are MERN stack, Next.js, Python + Django. I am on a mission to prove the age old saying - Age Is Just A Number.
       </p>
     </div>
   ),
@@ -22,12 +22,20 @@ const TAB_CONTENT = {
       <h3 className="text-lg sm:text-xl font-semibold mb-2 text-blue-400">Education</h3>
       <ul className="text-gray-300 text-sm sm:text-base space-y-2">
         <li>
-          <strong>BSc Computer Science</strong> <br />
-          University of Example, 2018-2022
+          <strong>Scored 94% in ICSE Board Examinations</strong> <br />
+          IPEM International  School & College, 2013-2025
         </li>
         <li>
-          <strong>Web Design Certification</strong> <br />
-          Online Academy, 2021
+          <strong>Web Design Bootcamp</strong> <br />
+          By Dr. Angela Yu, 2024
+        </li>
+        <li>
+          <strong>AI Certifications From Be10x</strong> <br />
+          By Be10x, 2025
+        </li>
+        <li>
+          <strong>Currently Studying In Class XI</strong> <br />
+          AM Oxford School & College, 2025-Present
         </li>
       </ul>
     </div>
@@ -37,11 +45,11 @@ const TAB_CONTENT = {
       <h3 className="text-lg sm:text-xl font-semibold mb-2 text-blue-400">Experience</h3>
       <ul className="text-gray-300 text-sm sm:text-base space-y-2">
         <li>
-          <strong>Frontend Developer</strong> @ Creative Studio <br />
+          <strong>Web Developer & Designer</strong> @apexvisionariesagency <br />
           2022 - Present
         </li>
         <li>
-          <strong>UI/UX Designer</strong> @ Freelance <br />
+          <strong>Web Developer & Designer</strong> @ Freelance <br />
           2020 - 2022
         </li>
       </ul>
@@ -73,7 +81,7 @@ export default function AboutSection() {
           className="w-28 h-28 xs:w-32 xs:h-32 sm:w-40 sm:h-40 md:w-48 md:h-48 rounded-2xl overflow-hidden bg-gradient-to-tr from-blue-900 via-blue-700 to-blue-400 shadow-xl mb-4 md:mb-0 flex-shrink-0"
         >
           <img
-            src="/ehsan-saleem.jpg"
+            src="/IMG_20241205_225426.jpg"
             alt="Ehsan Saleem"
             className="object-cover w-full h-full"
           />
