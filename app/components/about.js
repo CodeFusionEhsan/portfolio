@@ -81,7 +81,7 @@ export default function AboutSection() {
           className="w-28 h-28 xs:w-32 xs:h-32 sm:w-40 sm:h-40 md:w-48 md:h-48 rounded-2xl overflow-hidden bg-gradient-to-tr from-blue-900 via-blue-700 to-blue-400 shadow-xl mb-4 md:mb-0 flex-shrink-0"
         >
           <img
-            src="/IMG_20241205_140550.jpg"
+            src="/IMG_20241204_140550.jpg"
             alt="Ehsan Saleem"
             className="object-cover w-full h-full"
           />
