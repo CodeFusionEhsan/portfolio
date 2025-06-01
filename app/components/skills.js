@@ -2,18 +2,22 @@
 import { motion } from "framer-motion";
 
 const skills = [
+  { name: "Javascript", icon: "/skills/js.svg" },
+  { name: "Python", icon: "/skills/python.svg" },
   { name: "MERN Stack", icon: "/skills/mern.svg" },
   { name: "Next.js", icon: "/skills/nextjs.svg" },
-  { name: "Python", icon: "/skills/python.svg" },
   { name: "Django", icon: "/skills/django.svg" },
-  { name: "Solidity", icon: "/skills/solidity.svg" },
-  { name: "Hardhat", icon: "/skills/hardhat.svg" },
-  { name: "Tailwind CSS", icon: "/skills/tailwind.svg" },
   { name: "HTML", icon: "/skills/html.svg" },
   { name: "CSS", icon: "/skills/css.svg" },
-  { name: "Firebase", icon: "/skills/firebase.svg" },
+  { name: "Tailwind CSS", icon: "/skills/tailwind.svg" },
   { name: "SQL", icon: "/skills/sql.svg" },
+  { name: "Firebase", icon: "/skills/firebase.svg" },
+  { name: "MongoDB", icon: "/skills/mongodb.svg" },
   { name: "Docker", icon: "/skills/docker.svg" },
+  { name: "Solidity", icon: "/skills/solidity.svg" },
+  { name: "Hardhat", icon: "/skills/hardhat.svg" },
+  { name: "Git", icon: "/skills/git.svg" },
+  { name: "Github", icon: "/skills/github.svg" },
 ];
 
 export default function SkillsSection() {
