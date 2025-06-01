@@ -64,7 +64,7 @@ export default function Hero() {
           <div className="relative w-40 h-40 xs:w-48 xs:h-48 sm:w-56 sm:h-56 md:w-72 md:h-72 rounded-full overflow-hidden bg-gradient-to-tr from-blue-900 via-blue-700 to-blue-400 shadow-lg">
             {/* Replace the src with your own image */}
             <img
-              src="/ehsan-saleem.jpg"
+              src="/IMG_20241205_225426.jpg"
               alt="Ehsan Saleem"
               className="object-cover w-full h-full"
             />
