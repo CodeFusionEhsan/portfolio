@@ -12,7 +12,7 @@ const projects = [
   },
   {
     title: "E-Commerce Sales Chatbot",
-    image: "/projects/projectAI.PNG",
+    image: "/projects/projectAI.png",
     description: "An E-Commerce Sales Chatbot capable of processing basic user queries and fetch relevant product data",
     tech: ["Django", "Tailwind CSS", "Clerk", "Next.js", "Regex", "SQLite"],
     link: "https://github.com/CodeFusionEhsan/Chatbot"
