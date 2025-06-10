@@ -11,11 +11,11 @@ const projects = [
     link: "https://frontend-codershangout.vercel.app"
   },
   {
-    title: "VidWiz Video",
-    image: "/projects/project3.PNG",
-    description: "A Modern Video Editing & Sharing Platform built with Next.js",
-    tech: ["Next.js", "MongoDB", "React.js", "Cloudinary", "API", "Javascript"],
-    link: "https://vidwiz-video.vercel.app"
+    title: "E-Commerce Sales Chatbot",
+    image: "/projects/projectAI.PNG",
+    description: "An E-Commerce Sales Chatbot capable of processing basic user queries and fetch relevant product data",
+    tech: ["Django", "Tailwind CSS", "Clerk", "Next.js", "Regex", "SQLite"],
+    link: "https://github.com/CodeFusionEhsan/Chatbot"
   },
   {
     title: "Refine Search - Image Search",
@@ -23,6 +23,13 @@ const projects = [
     description: "Search Products On Flipkart Using Images",
     tech: ["Python", "Django", "Tailwind CSS", "Tensorflow", "AI/ML", "Firecrawl", "Web Scraping"],
     link: "https://github.com/CodeFusionEhsan"
+  },
+  {
+    title: "VidWiz Video",
+    image: "/projects/project3.PNG",
+    description: "A Modern Video Editing & Sharing Platform built with Next.js",
+    tech: ["Next.js", "MongoDB", "React.js", "Cloudinary", "API", "Javascript"],
+    link: "https://vidwiz-video.vercel.app"
   },
   {
     title: "Tradex - For Crypto",
