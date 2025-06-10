@@ -11,13 +11,6 @@ const projects = [
     link: "https://frontend-codershangout.vercel.app"
   },
   {
-    title: "E-Commerce Sales Chatbot",
-    image: "/projects/projectAI.png",
-    description: "An E-Commerce Sales Chatbot capable of processing basic user queries and fetch relevant product data",
-    tech: ["Django", "Tailwind CSS", "Clerk", "Next.js", "Regex", "SQLite"],
-    link: "https://github.com/CodeFusionEhsan/Chatbot"
-  },
-  {
     title: "Refine Search - Image Search",
     image: "/projects/project2.PNG",
     description: "Search Products On Flipkart Using Images",
