@@ -5,12 +5,12 @@ import emailjs from '@emailjs/browser';
 
 export default function ContactSection() {
   const [submitted, setSubmitted] = useState(false);
-  const [name, setName] = useState(""):
+  const [name, setName] = useState("");
   const [email, setEmail] = useState("");
-  const [message, setMeessage] = useState("");
+  const [message, setMessage] = useState("");
 
   // For demo: replace with your form handler or integration (e.g., EmailJS, Formspree, etc.)
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
 
     const templateParams = {
@@ -25,6 +25,10 @@ export default function ContactSection() {
       const userId = 'ZTBvSUbFHZ5xDm7PY';
 
       await emailjs.send(serviceId, templateId, templateParams, userId);
+
+    setName("")
+    setEmail("")
+    setMessage("")
     
     setSubmitted(true);
     setTimeout(() => setSubmitted(false), 3000);
