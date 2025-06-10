@@ -44,7 +44,7 @@ const projects = [
     description: "A Web App Built using Next.js where people can upload and enroll on free courses (Looking Forward To Add The Paid Courses Functionality). Responsive & Highly Functional with secure authentication using Clerk",
     tech: ["Next.js", "Tailwind CSS", "MongoDB","Clerk", "Cloudinary"],
     link: "https://learnmania.vercel.app"
-  },
+  }
 ];
 
 const variants = {
