@@ -4,6 +4,13 @@ import { motion, AnimatePresence } from "framer-motion";
 
 const projects = [
   {
+    title: "Taskify",
+    image: "/projects/project.png",
+    description: "AI Powered Project Management Platform Crafted For Freelancers With Amazing AI Features",
+    tech: ["Next.js", "Tailwind CSS", "Clerk", "Gemini API", "Prisma", "PostgreSQL"],
+    link: "https://taskify-manager-project.vercel.app"
+  },
+  {
     title: "CodersHangout",
     image: "/projects/project1.PNG",
     description: "A Community where Developers Can Share Their Knowledge and Code",
