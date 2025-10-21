@@ -24,7 +24,7 @@ export default function Hero() {
             transition={{ delay: 0.25, duration: 0.7, type: "spring" }}
             className="text-lg sm:text-xl md:text-2xl text-blue-400 font-semibold mb-3 sm:mb-4"
           >
-            Web Developer | Python Expert | Web3 Learner
+            Full Stack Web Developer & Programmer
           </motion.h2>
           <motion.p
             initial={{ y: 60, opacity: 0 }}
@@ -32,7 +32,7 @@ export default function Hero() {
             transition={{ delay: 0.4, duration: 0.7, type: "spring" }}
             className="text-gray-300 mb-7 sm:mb-8 max-w-lg"
           >
-            A 16 Year Old Crafting Jaw-Dropping Web Apps & AI-Powered Solutions With Responsive Frontend & Highly Functional Backend
+            A 17 Year Old Crafting Jaw-Dropping Web Apps & AI-Powered Solutions With Responsive Frontend & Highly Functional Backend
           </motion.p>
           <motion.div
             initial={{ opacity: 0, scale: 0.95 }}
