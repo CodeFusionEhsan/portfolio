@@ -44,12 +44,12 @@ export default function Navbar() {
             </motion.a>
           ))}
           <div className="flex gap-4 ml-6">
-            <motion.a whileHover={{ scale: 1.2 }} href="https://instagram.com/@ehsandesignswebsites" target="_blank" aria-label="Instagram">
+            <motion.a whileHover={{ scale: 1.2 }} href="https://instagram.com/_ehsan.exe" target="_blank" aria-label="Instagram">
               <svg className="w-6 h-6 text-gray-300 hover:text-pink-400 transition-colors" fill="currentColor" viewBox="0 0 24 24">
                 <path d="M7.75 2A5.75 5.75 0 002 7.75v8.5A5.75 5.75 0 007.75 22h8.5A5.75 5.75 0 0022 16.25v-8.5A5.75 5.75 0 0016.25 2h-8.5zm0 1.5h8.5A4.25 4.25 0 0120.5 7.75v8.5a4.25 4.25 0 01-4.25 4.25h-8.5A4.25 4.25 0 013.5 16.25v-8.5A4.25 4.25 0 017.75 3.5zm4.25 2.75a5 5 0 100 10 5 5 0 000-10zm0 1.5a3.5 3.5 0 110 7 3.5 3.5 0 010-7zm5.25.75a1 1 0 11-2 0 1 1 0 012 0z" />
               </svg>
             </motion.a>
-            <motion.a whileHover={{ scale: 1.2 }} href="https://github.com/CodeFusionEhsan" target="_blank" aria-label="GitHub">
+            <motion.a whileHover={{ scale: 1.2 }} href="https://github.com/@CodeFusionEhsan" target="_blank" aria-label="GitHub">
               <svg className="w-6 h-6 text-gray-300 hover:text-white transition-colors" fill="currentColor" viewBox="0 0 24 24">
                 <path d="M12 2C6.477 2 2 6.484 2 12.021c0 4.426 2.865 8.18 6.839 9.504.5.092.682-.217.682-.482 0-.237-.009-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.155-1.11-1.463-1.11-1.463-.908-.621.069-.609.069-.609 1.004.07 1.532 1.032 1.532 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.339-2.221-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.447-1.272.098-2.65 0 0 .84-.27 2.75 1.025A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.91-1.295 2.748-1.025 2.748-1.025.547 1.378.203 2.397.1 2.65.64.7 1.028 1.595 1.028 2.688 0 3.847-2.337 4.696-4.566 4.945.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.749 0 .267.18.579.688.481C19.138 20.199 22 16.447 22 12.021 22 6.484 17.523 2 12 2z" />
               </svg>
@@ -98,17 +98,17 @@ export default function Navbar() {
                 </a>
               ))}
               <div className="flex gap-4 mt-2">
-                <motion.a whileHover={{ scale: 1.2 }} href="https://instagram.com/" target="_blank" aria-label="Instagram">
+                <motion.a whileHover={{ scale: 1.2 }} href="https://instagram.com/-ehsan.exe" target="_blank" aria-label="Instagram">
                   <svg className="w-6 h-6 text-gray-300 hover:text-pink-400 transition-colors" fill="currentColor" viewBox="0 0 24 24">
                     <path d="M7.75 2A5.75 5.75 0 002 7.75v8.5A5.75 5.75 0 007.75 22h8.5A5.75 5.75 0 0022 16.25v-8.5A5.75 5.75 0 0016.25 2h-8.5zm0 1.5h8.5A4.25 4.25 0 0120.5 7.75v8.5a4.25 4.25 0 01-4.25 4.25h-8.5A4.25 4.25 0 013.5 16.25v-8.5A4.25 4.25 0 017.75 3.5zm4.25 2.75a5 5 0 100 10 5 5 0 000-10zm0 1.5a3.5 3.5 0 110 7 3.5 3.5 0 010-7zm5.25.75a1 1 0 11-2 0 1 1 0 012 0z" />
                   </svg>
                 </motion.a>
-                <motion.a whileHover={{ scale: 1.2 }} href="https://github.com/" target="_blank" aria-label="GitHub">
+                <motion.a whileHover={{ scale: 1.2 }} href="https://github.com/@CodeFusionEhsan" target="_blank" aria-label="GitHub">
                   <svg className="w-6 h-6 text-gray-300 hover:text-white transition-colors" fill="currentColor" viewBox="0 0 24 24">
                     <path d="M12 2C6.477 2 2 6.484 2 12.021c0 4.426 2.865 8.18 6.839 9.504.5.092.682-.217.682-.482 0-.237-.009-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.155-1.11-1.463-1.11-1.463-.908-.621.069-.609.069-.609 1.004.07 1.532 1.032 1.532 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.339-2.221-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.447-1.272.098-2.65 0 0 .84-.27 2.75 1.025A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.91-1.295 2.748-1.025 2.748-1.025.547 1.378.203 2.397.1 2.65.64.7 1.028 1.595 1.028 2.688 0 3.847-2.337 4.696-4.566 4.945.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.749 0 .267.18.579.688.481C19.138 20.199 22 16.447 22 12.021 22 6.484 17.523 2 12 2z" />
                   </svg>
                 </motion.a>
-                <motion.a whileHover={{ scale: 1.2 }} href="https://linkedin.com/" target="_blank" aria-label="LinkedIn">
+                <motion.a whileHover={{ scale: 1.2 }} href="https://linkedin.com/in/ehsan-saleem-web3" target="_blank" aria-label="LinkedIn">
                   <svg className="w-6 h-6 text-gray-300 hover:text-blue-400 transition-colors" fill="currentColor" viewBox="0 0 24 24">
                     <path d="M19 0h-14c-2.76 0-5 2.24-5 5v14c0 2.76 2.24 5 5 5h14c2.76 0 5-2.24 5-5v-14c0-2.76-2.24-5-5-5zm-11 19h-3v-9h3v9zm-1.5-10.27c-.97 0-1.75-.79-1.75-1.76s.78-1.76 1.75-1.76c.97 0 1.75.79 1.75 1.76s-.78 1.76-1.75 1.76zm13.5 10.27h-3v-4.5c0-1.08-.02-2.47-1.5-2.47-1.5 0-1.73 1.17-1.73 2.39v4.58h-3v-9h2.89v1.23h.04c.4-.75 1.37-1.54 2.82-1.54 3.01 0 3.57 1.98 3.57 4.56v4.75z" />
                   </svg>
