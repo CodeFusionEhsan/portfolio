@@ -13,7 +13,7 @@ const TAB_CONTENT = {
     <div>
       <h3 className="text-lg sm:text-xl font-semibold mb-2 text-blue-400">Who am I?</h3>
       <p className="text-gray-300 text-sm sm:text-base">
-        I am a 16 year old, forward-thinking web developer specializing in Javascript & Python, with a particular passion for inntegrating AI into web applications. My goal Is To create Web Solutions that are not only functional and beautiful but also intelligent and adaptve. My core areas of expertise are MERN stack, Next.js, Python + Django. I am on a mission to prove the age old saying - Age Is Just A Number.
+        I am a 17 year old, forward-thinking web developer specializing in Javascript & Python, with a particular passion for inntegrating AI into web applications. My goal Is To create Web Solutions that are not only functional and beautiful but also intelligent and adaptve. My core areas of expertise are MERN stack, Next.js, Python + Django. I am on a mission to prove the age old saying - Age Is Just A Number.
       </p>
     </div>
   ),
@@ -46,11 +46,11 @@ const TAB_CONTENT = {
       <ul className="text-gray-300 text-sm sm:text-base space-y-2">
         <li>
           <strong>Web Developer & Designer</strong> @apexvisionariesagency <br />
-          2022 - Present
+          2022 - 2024
         </li>
         <li>
           <strong>Web Developer & Designer</strong> @ Freelance <br />
-          2020 - 2022
+          2020 - Present
         </li>
       </ul>
     </div>
