@@ -4,6 +4,13 @@ import { motion, AnimatePresence } from "framer-motion";
 
 const projects = [
   {
+    title: "AI Skin Analysis and Product Recommendation System MVP",
+    image: "/projects/project-5.png",
+    description: "AI Powered Skin Analysis MVP for Canadian Startup with Before/After Results & Product Recommendation System",
+    tech: ["MERN Stack", "Huggingface", "Javascript", "Tailwind CSS", "ML"],
+    link: "https://www.instagram.com/p/DPs-wdOgLDD/"
+  },
+  {
     title: "Taskify",
     image: "/projects/project.png",
     description: "AI Powered Project Management Platform Crafted For Freelancers With Amazing AI Features",
@@ -44,13 +51,6 @@ const projects = [
     description: "A Crypto Trading Platform Built with Next.js & Crypto APIs where users can get latest updates on Cryto, See Crypto Data on Price Charts, note their strategies & build a community by blogging",
     tech: ["Next.js", "MongoDB", "APIs", "Rechart.js", "Gemini API", "Clerk", "Tailwind CSS"],
     link: "https://tradex-tau.vercel.app"
-  },
-  {
-    title: "Learnmania - Upskilling For All",
-    image: "/projects/project-5.png",
-    description: "A Web App Built using Next.js where people can upload and enroll on free courses (Looking Forward To Add The Paid Courses Functionality). Responsive & Highly Functional with secure authentication using Clerk",
-    tech: ["Next.js", "Tailwind CSS", "MongoDB","Clerk", "Cloudinary"],
-    link: "https://learnmania.vercel.app"
   }
 ];
 
