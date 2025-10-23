@@ -4,18 +4,18 @@ import { motion, AnimatePresence } from "framer-motion";
 
 const projects = [
   {
-    title: "AI Skin Analysis and Product Recommendation System MVP",
-    image: "/projects/project-5.png",
-    description: "AI Powered Skin Analysis MVP for Canadian Startup with Before/After Results & Product Recommendation System",
-    tech: ["MERN Stack", "Huggingface", "Javascript", "Tailwind CSS", "ML"],
-    link: "https://www.instagram.com/p/DPs-wdOgLDD/"
-  },
-  {
     title: "Taskify",
     image: "/projects/project.png",
     description: "AI Powered Project Management Platform Crafted For Freelancers With Amazing AI Features",
     tech: ["Next.js", "Tailwind CSS", "Clerk", "Gemini API", "Prisma", "PostgreSQL"],
     link: "https://taskify-manager-project.vercel.app"
+  },
+  {
+    title: "AI Skin Analysis and Product Recommendation System MVP",
+    image: "/projects/project-5.png",
+    description: "AI Powered Skin Analysis MVP for Canadian Startup with Before/After Results & Product Recommendation System",
+    tech: ["MERN Stack", "Huggingface", "Javascript", "Tailwind CSS", "ML"],
+    link: "https://www.instagram.com/p/DPs-wdOgLDD/"
   },
   {
     title: "CodersHangout",
