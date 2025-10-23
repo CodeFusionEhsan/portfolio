@@ -1,31 +1,5 @@
 
-# React + Vite Project Template
-
-This template provides a robust starting point for building React applications with Vite. It includes essential configurations and tools to streamline your development process, such as linting, code formatting, and easy deployment options.
-
-## Table of Contents
-
-- [Project Description](#project-description)
-- [Getting Started](#getting-started)
-  - [Installation](#installation)
-  - [Running the Development Server](#running-the-development-server)
-  - [Building for Production](#building-for-production)
-- [Project Structure](#project-structure)
-- [Available Scripts](#available-scripts)
-- [Linting and Code Formatting](#linting-and-code-formatting)
-  - [ESLint](#eslint)
-  - [Prettier](#prettier)
-  - [Configuration](#configuration)
-- [Plugins](#plugins)
-- [Deployment](#deployment)
-- [Contribution Guidelines](#contribution-guidelines)
-- [License](#license)
-
-## Project Description
-
-> Briefly describe the purpose of your project template here. What kind of applications is it best suited for? What are its key features and benefits?
-
-This template is designed to accelerate the development of modern web applications using React and Vite. It includes pre-configured linting and formatting tools to maintain code quality and consistency.
+# Ehsan Saleem | Full Stack Web Developer
 
 ## Getting Started
 
