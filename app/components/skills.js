@@ -5,7 +5,7 @@ const skills = [
   { name: "Javascript", icon: "/skills/js.svg" },
   { name: "Python", icon: "/skills/python.svg" },
   { name: "MERN Stack", icon: "/skills/mern.svg" },
-  { name: "Next.js", icon: "/skills/nextjs.svg" },
+  { name: "Next.js", icon: "/skills/next.svg" },
   { name: "Nest.js", icon: "/skills/nest.svg"},
   { name: "Django", icon: "/skills/django.svg" },
   { name: "HTML", icon: "/skills/html.svg" },
