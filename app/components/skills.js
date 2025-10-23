@@ -6,6 +6,7 @@ const skills = [
   { name: "Python", icon: "/skills/python.svg" },
   { name: "MERN Stack", icon: "/skills/mern.svg" },
   { name: "Next.js", icon: "/skills/nextjs.svg" },
+  { name: "Nest.js", icon: "/skills/nest.svg"},
   { name: "Django", icon: "/skills/django.svg" },
   { name: "HTML", icon: "/skills/html.svg" },
   { name: "CSS", icon: "/skills/css.svg" },
@@ -15,9 +16,7 @@ const skills = [
   { name: "MongoDB", icon: "/skills/mongodb.svg" },
   { name: "Docker", icon: "/skills/docker.svg" },
   { name: "Solidity", icon: "/skills/solidity.svg" },
-  { name: "Hardhat", icon: "/skills/hardhat.svg" },
   { name: "Git", icon: "/skills/git.svg" },
-  { name: "Github", icon: "/skills/github.svg" },
 ];
 
 export default function SkillsSection() {
